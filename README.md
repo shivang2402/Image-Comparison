@@ -1,4 +1,5 @@
 # Image-Comparison
+
 Image Comparison and Alignment with Different Techniques<br><br>
 
 This repository contains two Python scripts that enable you to compare and align two images using different techniques for image analysis and processing. Both scripts perform the task of image comparison and alignment, but they utilize distinct algorithms. Here's an overview of the two implementations:<br>
